@@ -4,6 +4,6 @@
             name="default"/>
     <default remote="default" 
              revision="master"/>
-    <project path="manifest"
+    <project path="coroutine"
              name="coroutine.git"/>
 </manifest>
