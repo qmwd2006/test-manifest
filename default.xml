@@ -2,7 +2,7 @@
 <manifest>
     <remote fetch="https://github.com/qmwd2006" 
             name="default"/>
-    <default name="default" 
+    <default remote="default" 
              revision="master"/>
     <project path="manifest"
              name="coroutine.git"/>
